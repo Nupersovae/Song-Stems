@@ -1,0 +1,1 @@
+Song stems that are over 25 mb will be exported as mp3, It's literally the same lmao.
