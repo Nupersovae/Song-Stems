@@ -1,0 +1,15 @@
+Crowbar Mixer Channels 
+
+
+1 - OTT
+    Fruity Reeverb 2
+
+2 - Fruity Reeverb 2 (Cathedral)
+
+3 - OTT
+    Fruity Chorus (Poly Chorus)
+    Distructor (Crusher, Rate Crush: 4635.21, Bitcrush: 6.49)
+    VanhallaVintageVerb (Fruity Reeverb 2, Cathedral)
+
+
+
