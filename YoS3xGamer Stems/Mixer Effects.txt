@@ -1,0 +1,20 @@
+YoS3xGamer Mixer Channels
+
+
+Master - Fruity Love Philter
+
+5 - OTT 
+    Boogex 
+    Fruity Reeverb 2
+
+7 - OTT
+    Fruity Reeverb 2 
+    dBlue Crusher (Reduction: 4, Smoothing: 70%)
+
+8 - KeroVee (Midi Out)
+    OTT
+    Boogex (Vintage Lead, Reverb Disabled)
+    Fruity Reeverb 2 
+
+
+    
