@@ -1,0 +1,19 @@
+Burnt Dogs Remake Mixer Channels
+
+
+5 - Fresh Air (Shiny)
+    OTT (3.9 dB)
+    Fruity Chorus 
+    Fruity Flanger (Chorusy)
+    Fruity Reverb 2
+
+6 - Hardcore (Bluesy Rythem)
+
+7 - Fruity Reverb 2 (Cathedral)
+    dblue_Crusher (Reduction: 5%, Smoothing: 100%)
+
+8 - OTT (3.9 dB)
+    Fruity Chorus 
+    Fruity Flanger (Chorusy)
+    Effector/FX (LO-FI)
+    Fruity Reverb 2
